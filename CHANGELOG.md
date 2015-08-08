@@ -34,3 +34,19 @@ We follow the [Semantic Versioning 2.0.0](http://semver.org/) format.
 
 ### Fixed
 - Examples
+
+## 0.2.1 - 2015-08-08
+
+### Added
+- Changed namespaces
+- New Packagist Repository
+- Version Tag
+
+### Deprecated
+- Use of namespace Erbilen
+
+### Removed
+- - Namespace Erbilen
+
+### Fixed
+- Semver versioning
