@@ -1,5 +1,5 @@
 {
-    "name": "tayfunerbilen/basicdb",
+    "name": "mtkocak/basicdb",
     "type": "library",
     "description": "A BasicDB implementation using PDO. Select, Insert, Update and Delete operations in an OOP way.",
     "keywords": ["db","pdo","oop"],
@@ -7,12 +7,6 @@
     "license": "MIT",
     "minimum-stability": "dev",
     "authors": [
-        {
-            "name": "Tayfun Erbilen",
-            "email": "tayfunerbilen@gmail.com",
-            "homepage": "http://www.erbilen.net",
-            "role": "Developer"
-        },
         {
             "name": "Midori Kocak",
             "email": "mtkocak@gmail.com",
