@@ -1,5 +1,5 @@
 <?php
-use Erbilen\Database\BasicDB;
+use Mtkocak\Database\BasicDB;
 
 class BasicDBTest extends PHPUnit_Extensions_Database_TestCase
 {

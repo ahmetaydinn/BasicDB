@@ -1,5 +1,5 @@
 <?php
-namespace Erbilen\Database;
+namespace Mtkocak\Database;
 
 abstract class CrudableAdapter implements CrudableInterface
 {

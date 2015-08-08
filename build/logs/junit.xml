@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testsuites>
-  <testsuite name="PHP Algorithms Test Suite" tests="5" assertions="7" failures="0" errors="0" time="0.045632">
-    <testsuite name="BasicDBTest" file="/Users/mtkocak/Working/basicDB/tests/BasicDBTest.php" tests="5" assertions="7" failures="0" errors="0" time="0.045632">
-      <testcase name="testDataBaseConnection" class="BasicDBTest" file="/Users/mtkocak/Working/basicDB/tests/BasicDBTest.php" line="51" assertions="1" time="0.023535"/>
-      <testcase name="testSelect" class="BasicDBTest" file="/Users/mtkocak/Working/basicDB/tests/BasicDBTest.php" line="80" assertions="1" time="0.005004"/>
-      <testcase name="testPagination" class="BasicDBTest" file="/Users/mtkocak/Working/basicDB/tests/BasicDBTest.php" line="88" assertions="1" time="0.005289"/>
-      <testcase name="testUpdate" class="BasicDBTest" file="/Users/mtkocak/Working/basicDB/tests/BasicDBTest.php" line="110" assertions="1" time="0.004948"/>
-      <testcase name="testDelete" class="BasicDBTest" file="/Users/mtkocak/Working/basicDB/tests/BasicDBTest.php" line="121" assertions="3" time="0.006856"/>
+  <testsuite name="PHP Algorithms Test Suite" tests="5" assertions="7" failures="0" errors="0" time="0.180417">
+    <testsuite name="BasicDBTest" file="/Users/mtkocak/Desktop/BasicDB/tests/BasicDBTest.php" tests="5" assertions="7" failures="0" errors="0" time="0.180417">
+      <testcase name="testDataBaseConnection" class="BasicDBTest" file="/Users/mtkocak/Desktop/BasicDB/tests/BasicDBTest.php" line="51" assertions="1" time="0.130200"/>
+      <testcase name="testSelect" class="BasicDBTest" file="/Users/mtkocak/Desktop/BasicDB/tests/BasicDBTest.php" line="82" assertions="1" time="0.008839"/>
+      <testcase name="testPagination" class="BasicDBTest" file="/Users/mtkocak/Desktop/BasicDB/tests/BasicDBTest.php" line="89" assertions="1" time="0.008024"/>
+      <testcase name="testUpdate" class="BasicDBTest" file="/Users/mtkocak/Desktop/BasicDB/tests/BasicDBTest.php" line="108" assertions="1" time="0.022085"/>
+      <testcase name="testDelete" class="BasicDBTest" file="/Users/mtkocak/Desktop/BasicDB/tests/BasicDBTest.php" line="119" assertions="3" time="0.011269"/>
     </testsuite>
   </testsuite>
 </testsuites>

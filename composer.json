@@ -8,6 +8,12 @@
     "minimum-stability": "dev",
     "authors": [
         {
+            "name": "Tayfun Erbilen",
+            "email": "tayfunerbilen@gmail.com",
+            "homepage": "http://www.erbilen.net",
+            "role": "Developer"
+        },
+        {
             "name": "Midori Kocak",
             "email": "mtkocak@gmail.com",
             "homepage": "http://www.mtkocak.com",
@@ -33,7 +39,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Erbilen\\Database\\": "src"
+            "Mtkocak\\Database\\": "src"
         }
     }
 }

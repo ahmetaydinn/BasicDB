@@ -1,6 +1,6 @@
 <?php
 
-namespace Erbilen\Database;
+namespace Mtkocak\Database;
 /**
  * Class BasicDB
  * 
