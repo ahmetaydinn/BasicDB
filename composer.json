@@ -3,7 +3,7 @@
     "type": "library",
     "description": "A BasicDB implementation using PDO. Select, Insert, Update and Delete operations in an OOP way.",
     "keywords": ["db","pdo","oop"],
-    "homepage": "http://github.com/tayfunerbilen/BasicDB",
+    "homepage": "http://github.com/mtkocak/BasicDB",
     "license": "MIT",
     "minimum-stability": "dev",
     "authors": [
